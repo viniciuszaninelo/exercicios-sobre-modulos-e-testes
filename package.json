@@ -1,0 +1,23 @@
+{
+  "name": "exercicios-sobre-modulos-e-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusmarquezaninelo/exercicios-sobre-modulos-e-testes.git"
+  },
+  "author": "Vinícius Marques Zaninelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusmarquezaninelo/exercicios-sobre-modulos-e-testes/issues"
+  },
+  "homepage": "https://github.com/viniciusmarquezaninelo/exercicios-sobre-modulos-e-testes#readme"
+}
